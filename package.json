@@ -1,25 +1,26 @@
 {
-    "title": "Agency",
+    "title": "OllieChick",
     "name": "startbootstrap-agency",
     "version": "4.1.1",
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "description": "A Website about OllieChick.",
     "keywords": [
-        "css",
-        "sass",
+        "Ollie",
+        "Chick",
         "html",
-        "responsive",
-        "theme",
-        "template"
+        "OllieChick",
+        "www.OllieChick.co.uk",
+        "Architecture and Civil Engineering",
+		"Chick",
+		"Ollie Chick",
+		"Oliver",
+		"Oliver Chick",
+		"Oliver Mark Chick",
+		"Ollie Mark Chick"
     ],
     "homepage": "https://startbootstrap.com/template-overviews/agency",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
         "email": "feedback@startbootstrap.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
     ],
     "repository": {
         "type": "git",
